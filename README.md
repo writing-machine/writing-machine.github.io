@@ -1,2 +1,2 @@
-### Reasoning Machine
-A Machine that reasons.
+### Writing Machine
+A Machine that Writes texts.
