@@ -9,11 +9,9 @@ title: Writing Machine
   book "Cybernetics, or Control and Communication in the Animal and the Machine".
 </pre>
 
-[Writing-Machine (meta)](https://Writing-machine.github.io/meta/)
+[Writing-Machine (gemini)](https://Writing-machine.github.io/gemini/)
 
-[Writing-Machine (openai)](https://Writing-machine.github.io/openai/)
+[Writing-Machine (oaio)](https://Writing-machine.github.io/oaio/)
 
-[Writing-Machine (fireworks)](https://Writing-machine.github.io/fireworks/)
-
-[Writing-Machine (depsek)](https://Writing-machine.github.io/depsek/)
+[Writing-Machine (grokf)](https://Writing-machine.github.io/grokf/)
 
